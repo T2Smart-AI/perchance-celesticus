@@ -1,0 +1,28 @@
+// Celestia Web — real-time 3D space visualization for Perchance.
+// A native WebGL re-implementation inspired by Celestia (CelestiaProject/Celestia).
+
+$meta
+  title = Celestia Web — 3D Space Voyage
+  description = Fly through the solar system and the stars: real ephemerides, time warp, constellations, guided tour.
+  tags = space, astronomy, 3d, planets, stars, educational, simulation
+
+config
+  appName = Celestia Web
+
+// Cities for the 3D street map (MapLibre + OpenFreeMap): Name|lat|lon.
+// Used by the "Random" button and as fallback destinations. Edit freely.
+streetCity
+  Paris, France|48.8566|2.3522
+  Mouscron, Belgium|50.7437|3.2143
+  London, UK|51.5074|-0.1278
+  Rome, Italy|41.9028|12.4964
+  Marrakech, Morocco|31.6295|-7.9811
+  Cairo, Egypt|30.0444|31.2357
+  Cape Town, South Africa|-33.9249|18.4241
+  New York, USA|40.7128|-74.006
+  San Francisco, USA|37.7749|-122.4194
+  Rio de Janeiro, Brazil|-22.9068|-43.1729
+  Tokyo, Japan|35.6762|139.6503
+  Singapore|1.3521|103.8198
+  Sydney, Australia|-33.8688|151.2093
+  Reykjavik, Iceland|64.1466|-21.9426
